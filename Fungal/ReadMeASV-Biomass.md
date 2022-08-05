@@ -1,4 +1,5 @@
 Note: All files here are for the fungal analysis, except for file "#9-RichnessBiomass-AshDepth-Bac-Fun", this file is to create the graph for both bacteria and fungi for both biomass and species richness. 
+Bacterial and biomass files are located in the main directory, under biomass. 
 
 FILES: BASED ON NUMBER #-Name
 1. Quality control: takes a raw AV table exported from qiime2, rarefies the dataset, removes controls, and calculates alpha diversity metrics. All files from here are saved for downstream analysis 
